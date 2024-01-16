@@ -21,7 +21,7 @@ const Search = () => {
                 flex
                 flex-row
                 items-center
-                justify-center
+                justify-between
                 "
             >
                 <div
@@ -65,7 +65,7 @@ const Search = () => {
                     sm:block
                     "
                     >
-                        Add Guest
+                        Add Guests
                     </div>
                     <div
                     className="
